@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo Da Vinci</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!--Textos menu opciones -->
+    <string name="alta">Alta</string>
+    <string name="baja">Baja</string>
+    <string name="modificacion">Modificación</string>
+
+    <!--Mensajes menu opciones -->
+    <string name="notificacion_alta">Ha seleccionado Alta</string>
+    <string name="notificacion_baja">Ha seleccionado Baja</string>
+    <string name="notificacion_modificacion">Ha seleccionado Modificación</string>
+
+    <!--Textos menu lateral -->
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+
+    <!--Textos largos -->
+    <string name="texto_invento">El ornitóptero de Leonardo da Vinci es un diseño para una máquina voladora que intentaba imitar el vuelo de los pájaros. Consistía en un aparato con alas grandes y flexibles, que el piloto debía mover con manivelas para batirlas como si fueran las alas de un pájaro. La idea era generar la sustentación necesaria para volar. Aunque no fue construido en su época debido a las limitaciones tecnológicas, el ornitóptero es uno de los primeros intentos de diseñar una máquina voladora basada en el estudio de la naturaleza, y muestra la visión innovadora de Leonardo en la aviación.</string>
+    <string name="texto_escultura">Nombre: El Gran Caballo (Il Cavallo).\nFecha de inicio: 1482.\nEncargo: Ludovico Sforza, duque de Milán.\nPropósito: Monumento ecuestre en honor a Francesco Sforza.</string>
+    <string name="texto_monalisa">Artista: Leonardo da Vinci.\nFecha: Aproximadamente 1503-1506.\nTécnica: Óleo sobre tabla de madera de álamo.\nDimensiones: 77 cm × 53 cm.\nUbicación: Museo del Louvre, París.</string>
+    <string name="texto_ciencia">Leonardo da Vinci (1452-1519) fue un genio del Renacimiento cuya curiosidad abarcó disciplinas científicas, artísticas y técnicas. Además de ser un destacado pintor, realizó importantes estudios científicos que marcaron precedentes en anatomía, ingeniería, botánica, hidrodinámica, óptica y geología.
+
+    En anatomía, diseccionó cadáveres humanos y animales, produciendo dibujos extremadamente precisos de músculos, órganos y huesos, incluyendo representaciones detalladas del sistema cardiovascular y el desarrollo fetal. En ingeniería, diseñó máquinas voladoras, prototipos de helicópteros, puentes colgantes y sistemas hidráulicos, muchas de las cuales eran visionarias para su época.
+
+    Sus estudios de botánica exploraron el crecimiento de las plantas y patrones matemáticos como el número áureo. También investigó el flujo del agua, los remolinos y la turbulencia, contribuyendo a la comprensión de la hidrodinámica. En óptica, analizó la luz, la visión y la perspectiva, mientras que en geología observó fósiles y propuso que las montañas alguna vez estuvieron bajo el agua, cuestionando las ideas tradicionales de su tiempo.
+
+    Leonardo usó un enfoque empírico y experimental, dejando sus observaciones en cuadernos escritos en espejo. Aunque no publicó sus descubrimientos, su legado ha influido enormemente en la ciencia moderna gracias a obras como el Códice Leicester y el Códice Atlántico.</string>
+
+
+</resources>
